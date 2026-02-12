@@ -1,0 +1,2 @@
+# stock_dataset.xlsx: 앱에서 사용하는 종목·펀드 데이터 (필수)
+# user_data.db: 로그인 계정 DB (실행 시 자동 생성, .gitignore 대상)
